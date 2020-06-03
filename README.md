@@ -1,4 +1,4 @@
-**REPO MOVED ON** https://codeberg.org/mamutcho/Gadgetbridge
+**REPO MOVED TO:** https://codeberg.org/mamutcho/Gadgetbridge
 
 
 Gadgetbridge
